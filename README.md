@@ -1,4 +1,3 @@
-```markdown
 # NeuroStartUp
 
 ![](./logo.png)
@@ -25,5 +24,4 @@
   font-family: "Awesome", Arial, sans-serif;
   color: red;
 }
-```
 ```
